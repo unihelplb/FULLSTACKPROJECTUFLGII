@@ -1,0 +1,8 @@
+# Local config can be ignored if you prefer to keep the key out of git.
+# NOTE: GitHub Pages serves repo files directly, so for the LIVE site to
+# work you must include config.js. For a static site the key is visible
+# regardless. Leave this commented unless you know you want it ignored.
+# js/config.js
+node_modules/
+.DS_Store
+ 
